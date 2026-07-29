@@ -12,6 +12,14 @@
 <img width="49%" src="https://github-readme-stats-ten-silk-51.vercel.app/api?username=gauravthorat-dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
 <img width="49%" src="https://github-readme-stats-ten-silk-51.vercel.app/api/top-langs/?username=gauravthorat-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/output/github-snake.svg" />
+</picture>
+</div>
 <!--
 **gauravthorat-dev/gauravthorat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
