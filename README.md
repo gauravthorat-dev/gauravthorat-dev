@@ -38,7 +38,7 @@
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
 <img src="https://github-readme-stats-ten-silk-51.vercel.app/api/top-langs/?username=gauravthorat-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F"/>
 
