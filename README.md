@@ -7,7 +7,17 @@
 <br>
 
 <p align="center">
-  <b>Software Developer</b> • Building scalable applications • Always learning, always building 🚀
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=2500&color=22D3EE&center=true&vCenter=true&width=900&lines=Software+Developer;Building+Scalable+Applications;Flask+%7C+Python+%7C+REST+APIs;Always+Learning+Always+Building" />
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,mysql,sqlite,git,github,linux,docker,postman,vscode" />
+
 </p>
 
 <br>
