@@ -20,6 +20,20 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/output/github-snake.svg" />
 </picture>
 </div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/iam-gaurav-thorat/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:thoratgaurav20033@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://portfolio-cms-mybu.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+</a>
+</div>
 <!--
 **gauravthorat-dev/gauravthorat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
