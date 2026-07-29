@@ -72,7 +72,7 @@ src="https://streak-stats.demolab.com/?user=gauravthorat-dev&hide_border=true&ba
 
 ---
 
-<h2 align="center">Connect</h2>
+<h2 align="center">Let's Connect 🤝</h2>
 
 <p align="center">
   <a href="https://portfolio-cms-mybu.vercel.app">
