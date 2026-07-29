@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/main/light.svg">
+  <img alt="Gaurav Thorat" src="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/main/light.svg">
+</picture>
+
 <!--
 **gauravthorat-dev/gauravthorat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
