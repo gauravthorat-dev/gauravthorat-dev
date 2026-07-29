@@ -7,39 +7,16 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=2500&color=22D3EE&center=true&vCenter=true&width=900&lines=Software+Developer;Building+Scalable+Applications;Flask+%7C+Python+%7C+REST+APIs;Always+Learning+Always+Building" />
+  <b>Software Developer</b> • Building scalable applications • Always learning, always building 🚀
 </p>
 
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,mysql,sqlite,git,github,linux,docker,postman,vscode" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| **Jarvis NX** | AI-powered desktop assistant with voice commands, local LLM support, automation and modular architecture. | Python • Flask • SQLite |
-| **Portfolio CMS** | Dynamic portfolio website with admin dashboard to manage projects, certificates and profile content. | Flask • SQLAlchemy • SQLite |
-| **Certificate Verification System** | Secure certificate validation platform with QR verification and admin management. | Flask • SQLite |
-| **River Cleaning Robot** | Low-cost floating IoT robot concept for automatic river waste collection. | ESP32 • Embedded Systems |
-
----
-
-# 📊 GitHub Analytics
+<br>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-ten-silk-51.vercel.app/api?username=gauravthorat-dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"/>
+<img width="49%" src="https://github-readme-stats-ten-silk-51.vercel.app/api?username=gauravthorat-dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
 
-<img width="49%" src="https://github-readme-stats-ten-silk-51.vercel.app/api/top-langs/?username=gauravthorat-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F"/>
+<img width="49%" src="https://github-readme-stats-ten-silk-51.vercel.app/api/top-langs/?username=gauravthorat-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
 
 </div>
 
@@ -51,46 +28,48 @@
 
 </div>
 
----
-
-# 🐍 Contribution Graph
+<br>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/output/github-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/gauravthorat-dev/gauravthorat-dev/output/github-snake.svg">
 </picture>
 
 </div>
 
----
+<br>
 
-# 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="https://portfolio-cms-mybu.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/gauravthorat-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/iam-gaurav-thorat/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:thoratgaurav20033@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A78BFA&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22D3EE,100:A78BFA&section=footer"/>
 </p>
