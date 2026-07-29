@@ -29,19 +29,17 @@
 
 <h2 align="center">GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    width="49%"
+    alt="GitHub Stats"
+    src="https://github-readme-stats-ten-silk-51.vercel.app/api?username=gauravthorat-dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"/>
 
-<img
-  width="48.5%"
-  alt="GitHub Stats"
-  src="https://github-readme-stats-ten-silk-51.vercel.app/api?username=gauravthorat-dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"/>
-
-<img
-  width="48.5%"
-  alt="Top Languages"
-  src="https://github-readme-stats-ten-silk-51.vercel.app/api/top-langs/?username=gauravthorat-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F"/>
-
-</div>
+  <img
+    width="49%"
+    alt="Top Languages"
+    src="https://github-readme-stats-ten-silk-51.vercel.app/api/top-langs/?username=gauravthorat-dev&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F"/>
+</p>
 
 <br>
 
