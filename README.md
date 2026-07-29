@@ -32,7 +32,7 @@
 
 <table align="center">
 <tr>
-<td width="100%">
+<td width="50%">
 
 <img src="https://github-readme-stats-ten-silk-51.vercel.app/api?username=gauravthorat-dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"/>
 
